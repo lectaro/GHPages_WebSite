@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "ポケモン"
+author: Lec
 permalink: /
 ---
 
@@ -17,8 +17,8 @@ permalink: /
 ## 見出し2
 ### 見出し3
 #### 見出し4
-##### 見出し5
-###### 見出し6
+##### 見
+###### 
 
 改行は、行末に半角スペースを2個いれる
 次の行
@@ -41,9 +41,9 @@ permalink: /
       1. さらにネスト
 
 
-| 列1  | 列2  |
+| あ |い |
 |-----|-----|
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/GHPages_WebSite/assets/images/)
