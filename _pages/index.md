@@ -13,11 +13,10 @@ permalink: /
 
 以下テンプレート
 
-# ポケモン
-![image](//)
+# ヒノアラシ
+![image](https://github.com/lectaro/GHPages_WebSite/blob/main/assets/images/pokemon.jpg)
 
-改行は、行末に半角スペースを2個いれる
-次の行
+
 
 [リンク](https://www.google.co.jp/)
 
